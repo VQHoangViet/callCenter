@@ -1,0 +1,4 @@
+<Response>
+    <Speak>Hello, this is a message from Plivo. Thank you for using our service. Goodbye!</Speak>
+    <Hangup/>
+</Response>
